@@ -4,10 +4,10 @@ Siin on viis lihtsat küsimust versioonihaldussüsteemi kohta, mis sobivad Andre
 Versioonihaldussüsteemi eesmärk on hallata ja jälgida koodimuudatusi, võimaldades meeskonnal teha koostööd, jälgida muudatusi ajaloos, tagada koodi õigsus ja taastatavus ning hallata erinevaid arendusversioone.
 
     Kuidas sa tavaliselt versioneerid oma koodimuudatusi?
-Versioneerin koodimuudatusi, luues regulaarseid "commite" (muudatuste salvestamine) ja andes igale muudatusele selge ja sisuka kirjelduse, et hiljem oleks lihtne aru saada, mida muudeti ja miks.
+
     Mis on erinevus "commit" ja "push" vahel versioonihaldussüsteemis?
-"Commit" salvestab koodimuudatused lokaalsesse repositooriumisse, säilitades need ajaloos. "Push" saadab need lokaalsed muudatused kaugserverisse (nt GitHub, GitLab), et muudatused oleksid teiste meeskonnaliikmete jaoks kergesti ligipääsetavad.
+
     Kuidas lahendad konflikte, mis võivad tekkida, kui mitu inimest muudavad sama faili?
-Kui mitu inimest muudab sama faili, siis tekib konflikt, mis tuleb lahendada käsitsi. Kasutan tööriistu nagu Git, mis märgivad konfliktide osad. Pärast nende analüüsimist ja õigete muudatuste valimist, "commit"-in lahendatud faili.
+
     Millist versioonihaldussüsteemi sa tavaliselt kasutad (näiteks Git) ja miks?
-Kasutan tavaliselt Git-i, kuna see on laialdaselt kasutatav, paindlik ja kiire. Lisaks on Gitil suurepärased tööriistad meeskonnatööks, koodihalduseks ja konfliktide lahendamiseks.
+
