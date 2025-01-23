@@ -1,7 +1,7 @@
 Mis on tarkvaraarenduse peamine eesmärk?
 Tarkvaraarenduse peamine eesmärk on luua usaldusväärne, tõhus ja kasutajasõbralik lahendus, mis täidab kliendi või lõppkasutaja vajadused ning on kvaliteedi ja turvalisuse poolest vastav nõudmistele.
 Milliseid programmeerimiskeeli sa tavaliselt kasutad?
-
+Kasutan mitmeid keeli vastavalt projekti nõudmistele, kuid sageli kasutan Pythonit, JavaScripti, Java või C#-i, kuna need pakuvad head tasakaalu tõhususe ja paindlikkuse vahel.
 Kuidas testid oma tarkvara enne, kui see lõplikult valmis saab?
 
 Mis on "bugi" ja kuidas sa tavaliselt neid lahendad?
