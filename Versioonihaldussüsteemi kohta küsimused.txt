@@ -10,6 +10,7 @@ Versioneerin koodimuudatusi, luues regulaarseid "commite" (muudatuste salvestami
 "Commit" salvestab koodimuudatused lokaalsesse repositooriumisse, säilitades need ajaloos. "Push" saadab need lokaalsed muudatused kaugserverisse (nt GitHub, GitLab), et muudatused oleksid teiste meeskonnaliikmete jaoks kergesti ligipääsetavad.
 
     Kuidas lahendad konflikte, mis võivad tekkida, kui mitu inimest muudavad sama faili?
+Kui mitu inimest muudab sama faili, siis tekib konflikt, mis tuleb lahendada käsitsi. Kasutan tööriistu nagu Git, mis märgivad konfliktide osad. Pärast nende analüüsimist ja õigete muudatuste valimist, "commit"-in lahendatud faili.
 
     Millist versioonihaldussüsteemi sa tavaliselt kasutad (näiteks Git) ja miks?
 
