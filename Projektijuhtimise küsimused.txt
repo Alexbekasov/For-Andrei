@@ -3,10 +3,9 @@ in on viis lihtsat küsimust, mis võivad olla seotud projektijuhtimisega ja sob
     Mis on projekti peamine eesmärk ja kuidas seda saavutada?
 Projekti eesmärk on tagada kvaliteedi ja tähtaegade täitmine. Selle saavutamiseks keskendun selge planeerimisele, meeskonnatööle ja pidevale jälgimisele.
     Kuidas sa hindad projekti edenemist? Kas sul on mingid kindlad mõõdikud?
-
+Edenemist hindan ajakava ja eelarve järgi, samuti pideva tagasiside ja meeskonna ülevaatustega. Kasutan sageli KPI-sid (tähtsaid tulemusnäitajaid), et mõõta edu.
     Milliseid samme sa võtaksid, et projekti tähtaegu täita?
 
     Kuidas tegeled projekti jooksul tekkivate probleemide ja muudatustega?
 
     Kuidas suhtled meeskonnaliikmetega ja tagad, et kõik oleksid oma ülesannetes kindlad?
-
