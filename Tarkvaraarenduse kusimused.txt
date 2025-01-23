@@ -7,5 +7,5 @@ Tarkvara testimiseks kasutan erinevaid meetodeid, sealhulgas üksuste teste (uni
 Mis on "bugi" ja kuidas sa tavaliselt neid lahendad?
 Bugi on tarkvaras leiduv viga või probleem, mis takistab selle korralikku toimimist. Lahendan neid, analüüsimiseks kasutan logisid, probleemide paljastamiseks teen ka korduvaid teste ning parandan koodi, järgides head arenduspraktikat ja testides muudatusi põhjalikult.
 Kuidas sa tegeled tarkvara uuenduste ja parandustega pärast selle väljalaskmist?
-
+Pärast tarkvara väljalaskmist jälgin pidevalt kasutajate tagasisidet ja monitorin süsteemi. Kui ilmnevad vead või vajadus uusi funktsioone, teen kiirelt parandusi ja väljastan uuendused, kasutades järjepidevat integreerimist ja pidevat testimist (CI/CD).
 
