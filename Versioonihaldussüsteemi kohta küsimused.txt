@@ -1,0 +1,7 @@
+Siin on viis lihtsat küsimust versioonihaldussüsteemi kohta, mis sobivad Andrei jaoks:
+
+    Mis on versioonihaldussüsteemi eesmärk?
+    Kuidas sa tavaliselt versioneerid oma koodimuudatusi?
+    Mis on erinevus "commit" ja "push" vahel versioonihaldussüsteemis?
+    Kuidas lahendad konflikte, mis võivad tekkida, kui mitu inimest muudavad sama faili?
+    Millist versioonihaldussüsteemi sa tavaliselt kasutad (näiteks Git) ja miks?
