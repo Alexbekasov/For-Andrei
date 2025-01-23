@@ -1,6 +1,11 @@
 Mis on tarkvaraarenduse peamine eesmärk?
+Tarkvaraarenduse peamine eesmärk on luua usaldusväärne, tõhus ja kasutajasõbralik lahendus, mis täidab kliendi või lõppkasutaja vajadused ning on kvaliteedi ja turvalisuse poolest vastav nõudmistele.
 Milliseid programmeerimiskeeli sa tavaliselt kasutad?
+Kasutan mitmeid keeli vastavalt projekti nõudmistele, kuid sageli kasutan Pythonit, JavaScripti, Java või C#-i, kuna need pakuvad head tasakaalu tõhususe ja paindlikkuse vahel.
 Kuidas testid oma tarkvara enne, kui see lõplikult valmis saab?
+Tarkvara testimiseks kasutan erinevaid meetodeid, sealhulgas üksuste teste (unit tests), integratsiooniteste ja kasutajaliidese teste (UI tests). Lisaks sooritan ka käsitsi testimist, et avastada võimalikke vigu, mis automaatsete testide kaudu võivad jääda tähelepanuta.
 Mis on "bugi" ja kuidas sa tavaliselt neid lahendad?
+Bugi on tarkvaras leiduv viga või probleem, mis takistab selle korralikku toimimist. Lahendan neid, analüüsimiseks kasutan logisid, probleemide paljastamiseks teen ka korduvaid teste ning parandan koodi, järgides head arenduspraktikat ja testides muudatusi põhjalikult.
 Kuidas sa tegeled tarkvara uuenduste ja parandustega pärast selle väljalaskmist?
+Pärast tarkvara väljalaskmist jälgin pidevalt kasutajate tagasisidet ja monitorin süsteemi. Kui ilmnevad vead või vajadus uusi funktsioone, teen kiirelt parandusi ja väljastan uuendused, kasutades järjepidevat integreerimist ja pidevat testimist (CI/CD).
 
