@@ -7,6 +7,7 @@ Versioonihaldussüsteemi eesmärk on hallata ja jälgida koodimuudatusi, võimal
 Versioneerin koodimuudatusi, luues regulaarseid "commite" (muudatuste salvestamine) ja andes igale muudatusele selge ja sisuka kirjelduse, et hiljem oleks lihtne aru saada, mida muudeti ja miks.
 
     Mis on erinevus "commit" ja "push" vahel versioonihaldussüsteemis?
+"Commit" salvestab koodimuudatused lokaalsesse repositooriumisse, säilitades need ajaloos. "Push" saadab need lokaalsed muudatused kaugserverisse (nt GitHub, GitLab), et muudatused oleksid teiste meeskonnaliikmete jaoks kergesti ligipääsetavad.
 
     Kuidas lahendad konflikte, mis võivad tekkida, kui mitu inimest muudavad sama faili?
 
