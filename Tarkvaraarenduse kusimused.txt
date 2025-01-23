@@ -1,0 +1,6 @@
+Mis on tarkvaraarenduse peamine eesmärk?
+Milliseid programmeerimiskeeli sa tavaliselt kasutad?
+Kuidas testid oma tarkvara enne, kui see lõplikult valmis saab?
+Mis on "bugi" ja kuidas sa tavaliselt neid lahendad?
+Kuidas sa tegeled tarkvara uuenduste ja parandustega pärast selle väljalaskmist?
+
